@@ -85,6 +85,9 @@
       "type": "promptString",
       "description": "ROS launch name",
       "default": "file_name_launch.py"
-    }
+    },
+
+  
+
   ]
 }
